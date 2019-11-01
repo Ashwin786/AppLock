@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App Lock</string>
+    <string name="confirm">Confirm</string>
+    <string name="incorrect_time"><![CDATA[Turn on Automatic date & time]]></string>
+    <string name="incorrect_zone">Turn on Automatic Time zone</string>
+    <string name="ok">Ok</string>
+</resources>
